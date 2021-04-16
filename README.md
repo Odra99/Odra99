@@ -1,18 +1,10 @@
 ### Hi there 👋
 
 <!--
-**aalvarezb9/aalvarezb9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Odra99/Odra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
-## English
-
-- 🔭 I’m currently working on Morazan Project...
-- 🌱 I’m currently learning Cibersecurity, Angular, React-Native...
-- 💬 Ask me about Python, JavaScript, Data Structures and Algorithms...
-- 📫 How to reach me: 
-  - Email: anrealba9@gmail.com
-  - Instagram: aalvarezb9
 
 ## Español
 
@@ -20,8 +12,7 @@ Here are some ideas to get you started:
 - 🌱 Actualmente estoy aprendiendo Ciberseguridad, Angular, React-Native...
 - 💬 Preguntame sobre Python, JavaScript, Algoritmos y Estructuras de Datos...
 - 📫 Cómo contactarme: 
-  - Correo electrónico: anrealba9@gmail.com
-  - Instagram: aalvarezb9
+  - Correo electrónico: fatima.tezo.99@gmail.com
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
