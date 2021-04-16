@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - I love fronted development and ux/ui design
 - I'm part of Project Morazan's team
 
-  - Correo electrónico: fatima.tezo.99@gmail.com
+  - email: fatima.tezo.99@gmail.com
 
 <p align='center'>
   <a href="https://github.com/Odra99/github-readme-stats">
