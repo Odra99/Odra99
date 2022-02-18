@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - I'm part of Project Morazan's team
 
   - email: fatima.tezo.99@gmail.com
-
+![header](https://capsule-render.vercel.app/api?type=slice)
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Odra99&show_icons=true&theme=dark&count-private=true" />
