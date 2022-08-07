@@ -22,4 +22,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odra99&layout=compact&theme=vue-dark&count-private=true" />
 </a>
+
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odra99)](https://github.com/anuraghazra/github-readme-stats)
