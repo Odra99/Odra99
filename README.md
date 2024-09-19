@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I´m%20Odra&fontSize=70&fontAlign=70)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### Hi there 👋
 
 <!--
 **Odra99/Odra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 - I'm from Quetzaltenango, Guatemala
 - I love programming
