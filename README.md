@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 
 - I'm from Quetzaltenango, Guatemala
-- I love fronted development and ux/ui design
-- I'm part of Project Morazan's team
+- I love programming
+- I'm currently learning about noSQL and cloud computing
 
   - email: fatima.tezo.99@gmail.com
 
