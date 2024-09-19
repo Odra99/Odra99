@@ -6,6 +6,7 @@
 **Odra99/Odra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 - I'm from Quetzaltenango, Guatemala
 - I love programming
